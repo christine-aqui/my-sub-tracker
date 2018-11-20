@@ -1,2 +1,7 @@
 # my-sub-tracker
 Subscription Tracker - Mobile app in React Native to keep track of subscriptions like netflix, spotify ... 
+
+## Commands 
+
+*  create-react-native-app
+*  expo start
